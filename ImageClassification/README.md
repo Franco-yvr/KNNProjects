@@ -1,1 +1,1 @@
-You will need a dataset of images and its corresponding SIFT descriptors. The one used for this project is 3.2 Gb in , which is well beyond the github 100Mb policy.
+You will need a script for computing the SIFT descriptors for the given images. The one used for this project was 3.2 Gb, which was well beyond the github 100Mb policy.
